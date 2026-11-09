@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "de.juliusschmidt.studium",
+    "sha256_cert_fingerprints": ["99:BE:30:1E:4F:0E:B8:C5:BE:60:DA:CA:DA:44:33:A7:78:6C:F2:5E:04:09:86:F7:F6:EA:65:FC:BC:11:DE:6A"]
+  }
+}]
